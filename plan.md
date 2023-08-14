@@ -8,7 +8,7 @@
 
 ## Updating
 
-loop a vectoron:
+iterate over the pixels:
     koordináta alapján szomszédok megnézése i+[-1,0,1], j+[-1,0,1] akik a vec be vannak
         ha túl sok szomszéd akkor meghal
     koordináta alapján a halott cellák megnézése:
